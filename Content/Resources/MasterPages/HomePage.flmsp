@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="206" MadCap:lastWidth="706">
+    <head>
+		<script type="text/javascript">
+			window.$zopim||(function(d,s){var z=$zopim=function(c){
+			z._.push(c)},$=z.s=
+			d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+			_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+			$.src='https://v2.zopim.com/?3Ke8GE5E96ObYa1TkOU5yfEldatjvzQM';z.t=+new Date;$.
+			type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+		</script>
+		<!--End of Zendesk Chat Script-->
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="HomeMasterPageFooter outer-row">
+                    <div><a href="../../Home.htm"><img src="../Images/CompanyLogo.png" alttext="" class="Hyperlinked footer-logo" /></a>
+                    </div>
+                    <div>
+                        <div class="footer-links"><a href="../../E_Footer Topics/PDF Downloads.htm">PDFs</a><a href="../../E_Footer Topics/Tips.htm">Tips</a><a href="../../E_Footer Topics/FAQs.htm">FAQs</a><a href="../../E_Footer Topics/Company Information.htm">Company</a>
+                        </div>
+                        <p class="Copyright">Copyright © <MadCap:variable name="General.Year" /> <MadCap:variable name="General.CompanyName" /></p>
+                    </div>
+                    <div class="footer-icons"><a href="https://twitter.com/Write_arium" target="_blank"><img src="../Images/TwitterIcon.png" alttext="just a temporary image" class="Hyperlinked" /></a><a href="http://www.facebook.com/writarium" target="_blank"><img src="../Images/FacebookIcon.png" alttext="" class="Hyperlinked" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
